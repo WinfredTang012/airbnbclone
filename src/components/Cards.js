@@ -14,7 +14,7 @@ export default function Cards(props){
             <img
                 src={props.item.coverImg}
                 className="card-image"
-                alt="katie-zaferes"
+                alt="katie-zaferes"  
             />
             <div className="card-stats">
                 <img src={starPic} className="card-star" alt="star-icon" />
